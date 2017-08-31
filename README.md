@@ -5,8 +5,62 @@
 ### Original Image
 ![Image1](https://github.com/Roselin/DeepLearning/blob/master/img1/Image1.jpg)
 
-### PartA - Task1
-![PartA - Task1](https://github.com/Roselin/DeepLearning/blob/master/img1/Task1_k1.jpg)
+### PartA - Task1 - K1
+![PartA - Task1 - K1](https://github.com/Roselin/DeepLearning/blob/master/img1/Task1_k1.jpg)
 
-### PartA - Task2
-![PartA - Task1](https://github.com/Roselin/DeepLearning/blob/master/img1/Task1_k1.jpg)
+### PartA - Task2 - K4
+![PartA - Task2 - K4](https://github.com/Roselin/DeepLearning/blob/master/img1/Task1_k1.jpg)
+
+### PartA - Task2 - K5
+![PartA - Task2 - K5](https://github.com/Roselin/DeepLearning/blob/master/img1/Task2_k5.jpg)
+
+### PartA - Task3 - K1
+![PartA - Task3 - K1](https://github.com/Roselin/DeepLearning/blob/master/img1/Task3_k1.jpg)
+
+### PartA - Task3 - K2
+![PartA - Task3 - K2](https://github.com/Roselin/DeepLearning/blob/master/img1/Task3_k2.jpg)
+
+### PartA - Task3 - K3
+![PartA - Task3 - K3](https://github.com/Roselin/DeepLearning/blob/master/img1/Task3_k3.jpg)
+
+### PartB 
+![PartB](https://github.com/Roselin/DeepLearning/blob/master/img1/figure_1_PartB.png)
+
+### PartC
+![PartC](https://github.com/Roselin/DeepLearning/blob/master/img1/figure_PartC_1.png)
+
+### ParD
+The code can be compiled but cannot run and the code has also be submitted.
+
+## Image2
+![Image2](https://github.com/Roselin/DeepLearning/blob/master/img2/Image2.jpg)
+
+### PartA - Task1 - K1
+![PartA - Task1 - K1](https://github.com/Roselin/DeepLearning/blob/master/img2/Task1_k1.jpg)
+
+### PartA - Task2 - K4
+![PartA - Task2 - K4](https://github.com/Roselin/DeepLearning/blob/master/img2/Task2_k4.jpg)
+
+### PartA - Task2 - K5
+![PartA - Task2 - K5](https://github.com/Roselin/DeepLearning/blob/master/img2/Task2_k5.jpg)
+
+### PartA - Task3 - K1
+![PartA - Task3 - K1](https://github.com/Roselin/DeepLearning/blob/master/img2/Task3_k1.jpg)
+
+### PartA - Task3 - K2
+![PartA - Task3 - K2](https://github.com/Roselin/DeepLearning/blob/master/img2/Task3_k2.jpg)
+
+### PartA - Task3 - K3
+![PartA - Task3 - K3](https://github.com/Roselin/DeepLearning/blob/master/img2/Task3_k3.jpg)
+
+### PartB 
+![PartB](https://github.com/Roselin/DeepLearning/blob/master/img2/figure_PartB_2.png)
+
+### PartC
+![PartC](https://github.com/Roselin/DeepLearning/blob/master/img2/figure_PartC_2.png)
+
+### ParD
+The code can be compiled but cannot run and the code has also be submitted.
+
+
+
