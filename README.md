@@ -30,7 +30,7 @@
 ![PartC](https://github.com/Roselin/DeepLearning/blob/master/img1/figure_PartC_1.png)
 
 ### ParD
-The code can be compiled but cannot run and the code has also be submitted.
+![PartD](https://github.com/Roselin/DeepLearning/blob/master/img1/PartD.jpg)
 
 ## Image2
 ![Image2](https://github.com/Roselin/DeepLearning/blob/master/img2/Image2.jpg)
@@ -60,7 +60,6 @@ The code can be compiled but cannot run and the code has also be submitted.
 ![PartC](https://github.com/Roselin/DeepLearning/blob/master/img2/figure_PartC_2.png)
 
 ### ParD
-The code can be compiled but cannot run and the code has also be submitted.
-
+![PartD](https://github.com/Roselin/DeepLearning/blob/master/img2/PartD.jpg)
 
 
