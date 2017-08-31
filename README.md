@@ -24,7 +24,7 @@
 ![PartA - Task3 - K3](https://github.com/Roselin/DeepLearning/blob/master/img1/Task3_k3.jpg)
 
 ### PartB 
-![PartB](https://github.com/Roselin/DeepLearning/blob/master/img1/figure_1_PartB.png)
+![PartB](https://github.com/Roselin/DeepLearning/blob/master/img1/PartB2.jpg)
 
 ### PartC
 ![PartC](https://github.com/Roselin/DeepLearning/blob/master/img1/figure_PartC_1.png)
@@ -54,7 +54,7 @@ The code can be compiled but cannot run and the code has also be submitted.
 ![PartA - Task3 - K3](https://github.com/Roselin/DeepLearning/blob/master/img2/Task3_k3.jpg)
 
 ### PartB 
-![PartB](https://github.com/Roselin/DeepLearning/blob/master/img2/figure_PartB_2.png)
+![PartB](https://github.com/Roselin/DeepLearning/blob/master/img2/PartB1.jpg)
 
 ### PartC
 ![PartC](https://github.com/Roselin/DeepLearning/blob/master/img2/figure_PartC_2.png)
