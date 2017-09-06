@@ -12,7 +12,7 @@ I = N.forward(Input_vect)
 
 ###Note: In the test.py file
 
-There are three examples
+There are three examples  
 (1) I used the example provided on the class   
     https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/  
     You can get the exactly same value  
