@@ -1,6 +1,6 @@
-# **HW3 - Yun-Jou Lin 0027875836** 
+# HW3 - Yun-Jou Lin 0027875836** 
 
-##Results
+## Results
 I have done two tests (1) Check back propogation and (2) Logical Gate for every training
 https://github.com/Roselin/DeepLearning/blob/master/HW3.PNG
 
