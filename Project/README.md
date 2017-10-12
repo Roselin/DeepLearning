@@ -12,7 +12,7 @@ Therefore, cameras could be a cost-down option for autonomous driving system.
 
 ## Goals  
 Identify the lane marking on the highway imagery.  
-
+![Image1](https://github.com/Roselin/DeepLearning/blob/master/Project/flea2_77_front_2017-05-02-134716-0242.jpg)
 
 ## Challenges  
 The illumination condition on image could be different from place, weather, and time.
